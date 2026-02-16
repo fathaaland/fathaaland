@@ -1,5 +1,18 @@
-# 💫 About Me:
-👋 Hi there! I’m David Dobrovolný, a 24-year-old tech enthusiast passionate about IT, developing and automated testing. 🚀<br><br>💼 Currently, I work as a Servis developer at Unicorn, where I’m constantly learning and improving my skills.<br><br>🎓 I’m also studying at Unicorn University, where we focus on the MERN tech stack (MongoDB, Express, React, Node.js). On my own, I’m diving deep into Java with Spring Boot for backend development and preparing for AWS certifications to level up my cloud skills. ☁️<br><br>💡 I love challenges, learning new technologies, and building cool stuff. Let’s connect and create something amazing! 😊
+👋 Hi there! I’m David Dobrovolný, a 24-year-old tech enthusiast passionate about backend development and cloud architecture. 🚀
+
+🎓 I’ve recently completed my final exams at Unicorn University and I’m currently finalizing my Bachelor’s thesis. My academic journey gave me a solid foundation in the MERN stack (MongoDB, Express, React, Node.js), but my heart lies in the backend and infrastructure.
+
+💻 What I do:
+
+Backend: I build scalable applications using Node.js and Java with Spring Boot.
+
+Cloud: This is my main focus right now. I’m actively working with AWS for my personal projects and I’ve integrated Microsoft Azure into my Bachelor's thesis.
+
+Experience: I gained valuable hands-on experience at Unicorn, where I moved from SW testing and automation to backend development support.
+
+☁️ Currently, I’m deep-diving into cloud technologies and preparing for certifications to level up my skills. I love challenges and building robust systems that live in the cloud.
+
+Let’s connect and talk tech! 😊
 
 
 ## 🌐 Socials:
